@@ -1,0 +1,2 @@
+ls -lR /etc > ls-etc.out
+./off_the_charts.pl ls-etc.out
